@@ -18,8 +18,7 @@
 | 핀밀크#1009 | -->
 
 ### 🏢 현재 직업
-낭만있는 백수입니다. <br />
-[![Samsung Electronic](https://img.shields.io/badge/Samsung%20Electronics-informational?logo=samsung)](https://www.samsung.com/sec/) <br />
+낭만있는 백수입니다.
 
 <!--
 **PinMIlk/pinmilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
